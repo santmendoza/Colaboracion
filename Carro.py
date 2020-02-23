@@ -1,4 +1,4 @@
-
+from Vehiculo import Vehiculo
 
     #Definimos la clase Carro
     class Carro(Vehiculo):
