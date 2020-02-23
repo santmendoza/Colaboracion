@@ -9,10 +9,10 @@ class Moto(Vehiculo):
 
 
     def arrancar(self,nombre,cilindraje):
-        return ('Arrancando la moto'+nombre+' con cilindraje :'+cilindraje)
+        return print ('Arrancando la moto '+nombre + ' con cilindraje :'+cilindraje)
 
     def frenar(self,nombre,color):
-        return ('La moto de nombre'+nombre+' ha frenado! de color'+color)
+        return print('La moto de nombre'+nombre+' ha frenado! de color'+color)
 
     
 
