@@ -14,6 +14,9 @@ class Moto(Vehiculo):
     def frenar(self,nombre,color):
         return print('La moto de nombre'+nombre+' ha frenado! de color'+color)
 
+    def acerlerar(self):
+        pass
+
     
 
 
